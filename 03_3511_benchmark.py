@@ -1,4 +1,5 @@
 import random
+
 import time
 import AulasPraticas.AP_03_ordenacao as ordn
 import sys
